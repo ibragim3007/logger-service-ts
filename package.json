@@ -1,0 +1,19 @@
+{
+  "name": "logger-service-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.service.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibragim3007/logger-service-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibragim3007/logger-service-ts/issues"
+  },
+  "homepage": "https://github.com/ibragim3007/logger-service-ts#readme"
+}
