@@ -1,0 +1,2 @@
+var t=/*#__PURE__*/function(){function t(t){var s=this;this.strategies=[],this.callFields=function(t,i,e){s.strategies.forEach(function(s){s[t](i,e)})},this.log=function(t,i){s.callFields("log",t,i)},this.error=function(t,i){s.callFields("error",t,i)},this.strategies=t}return t.prototype.success=function(t,s){this.callFields("success",t,s)},t}();export{t as Logger};
+//# sourceMappingURL=index.esm.js.map
